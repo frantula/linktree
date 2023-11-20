@@ -9,6 +9,7 @@
 .logos img{
     height: 100px;
     width: 100px;
+
 }
 
 body{
@@ -16,8 +17,8 @@ body{
 }
 .allconteiner{
   margin-top: 100px;
-        margin-left: 150px;
-        margin-right: 150px;
+        margin-left: 100px;
+        margin-right: 100px;
     display: flex;
     flex-direction: column;
    background: rgba(212, 4, 255, 0.33);
@@ -62,8 +63,7 @@ link{
 .allconteiner{
     width: 90%;
     margin: 5vh auto;
-    margin-left: 500px;
-    margin-right: 500px;
+ 
 }
 
 link + .link{
